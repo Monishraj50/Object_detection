@@ -1,2 +1,4 @@
 # Object_detection
-Detecting objects using YOLO algorithm
+#Intoduction
+A Keras implementation of YOLOv3 (Tensorflow backend) inspired by allanzelener/YAD2K.
+
