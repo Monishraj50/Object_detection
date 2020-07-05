@@ -2,7 +2,7 @@
 A Keras implementation of YOLOv2 (Tensorflow backend) inspired by [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 
 # Quick Start
-1.Download YOLOv3 weights from [YOLO website](http://pjreddie.com/darknet/yolo/).
+1.Download YOLOv2 weights from [YOLO website](http://pjreddie.com/darknet/yolo/).
 
 2.Convert the Darknet YOLO model to a Keras model.
 
