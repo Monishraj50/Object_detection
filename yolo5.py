@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 26 14:34:25 2020
-
-@author: Harinath
-"""
-
 import argparse
 import os
 import matplotlib.pyplot as plt
